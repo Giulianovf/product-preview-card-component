@@ -12,9 +12,9 @@
   display: flex;
   flex-direction: row;
   margin: 10px;
-  border: solid 2px red;
   background-color: hsl(0, 0%, 100%);
   width: 550px;
+  border-radius: 10px;
   height: 450px;
   font-size: 14px;
 }
@@ -22,4 +22,5 @@
 img{
   width: auto;
   height: auto;
+  border-radius: 10px 0 0 10px;
 }
