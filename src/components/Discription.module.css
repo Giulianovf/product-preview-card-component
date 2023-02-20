@@ -1,0 +1,23 @@
+.discription{
+    display: flex;
+    flex-direction: column;
+    color: hsl(228, 12%, 48%);
+    margin: 10px;
+}
+
+h2{
+    color: hsl(158, 36%, 37%);
+    font-family: 'Fraunces';
+    font-size: 30px;
+  }
+
+p{    
+    display: flow-root;
+    margin: 10px;
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat';
+  }
+
+h1{
+    margin: 10px;
+  } 

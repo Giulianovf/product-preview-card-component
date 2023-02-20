@@ -1,0 +1,17 @@
+.AddToCart{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 5px none;
+    background-color: hsl(158, 36%, 37%);
+    padding: 20px 40px 20px 40px;
+    color: hsl(0, 0%, 100%);
+  }
